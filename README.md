@@ -19,10 +19,10 @@ This repository contains a **functional prototype** of the system, showcasing th
   </tr>
   <tr>
     <td>
-      <img src="https://i.imgur.com/your-dashboard-image-link.png" alt="Dashboard Screenshot" width="100%">
+      <img src="[https://i.imgur.com/your-dashboard-image-link.png](https://imgur.com/GAjETks)" alt="Dashboard Screenshot" width="100%">
     </td>
     <td>
-      <img src="https://i.imgur.com/your-hardware-image-link.jpg" alt="Hardware Prototype" width="100%">
+      <img src="[https://i.imgur.com/your-hardware-image-link.jpg](https://imgur.com/fNyTJm4)" alt="Hardware Prototype" width="100%">
     </td>
   </tr>
 </table>
