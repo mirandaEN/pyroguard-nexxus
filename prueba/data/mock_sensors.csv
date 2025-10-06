@@ -1,0 +1,2 @@
+sensor_id,lat,lon,timestamp,temp_c,humidity_pct,wind_ms,smoke_ppm,fuel_dryness,risk_score,risk_label
+Arduino-Live,25.375723529411765,-101.04071176470588,2025-10-05T15:13:40,29.8,39.0,,,,,Bajo
