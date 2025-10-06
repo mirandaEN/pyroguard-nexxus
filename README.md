@@ -15,14 +15,18 @@ This repository contains a **functional prototype** of the system, showcasing th
 <table>
   <tr>
     <td align="center"><b>Live Telemetry Dashboard</b></td>
-    <td align="center"><b>Functional Hardware Prototype</b></td>
+    <td align="center"><b>Hardware Prototypes</b></td>
   </tr>
   <tr>
     <td>
-      <img src="[https://i.imgur.com/your-dashboard-image-link.png](https://imgur.com/GAjETks)" alt="Dashboard Screenshot" width="100%">
+      <img src="https://i.imgur.com/tdZqBpW.gif" alt="PyroGuard Nexus Dashboard in Action" width="100%">
+      <br><i>Real-time data visualization from sensors.</i>
     </td>
     <td>
-      <img src="[https://i.imgur.com/your-hardware-image-link.jpg](https://imgur.com/fNyTJm4)" alt="Hardware Prototype" width="100%">
+      <img src="https://i.imgur.com/GAjETks.jpg" alt="Arduino Prototype" width="48%">
+      
+      <img src="https://i.imgur.com/fNyTJm4.jpg" alt="ESP32 Prototype" width="48%">
+      <br><i>Our functional IoT sensor nodes for ground-level detection.</i>
     </td>
   </tr>
 </table>
@@ -54,7 +58,7 @@ Follow these steps to run the dashboard on your local machine.
 
 1.  **Clone the repository:**
     ```bash
-    # INSTRUCCIÓN: Reemplaza con la URL real de tu repositorio.
+    # Replace with your actual repository URL
     git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
     cd your-repository-name
     ```
