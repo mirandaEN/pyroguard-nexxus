@@ -22,7 +22,7 @@ This repository contains a **functional prototype** of the system, showcasing th
 #### Hardware Prototypes
 *Our functional IoT sensor nodes for ground-level detection.*
 
-<img src="https://i.imgur.com/GAjETks.jpg" alt="Arduino Prototype" width="400"> <img src="https://i.imgur.com/fNyTJm4.jpg" alt="ESP32 Prototype" width="400">
+<img src="https://i.imgur.com/fNyTJm4.jpg" alt="Arduino Prototype" width="400"> <img src="https://i.imgur.com/wU13f6W.jpg" alt="ESP32 Prototype" width="400">
 
 ---
 
