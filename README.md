@@ -61,7 +61,7 @@ Our goal extends beyond this competition. We aim to develop PyroGuard Nexus into
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repository-name.git](https://github.com/your-username/your-repository-name.git)
+    git clone [https://github.com/mirandaEN/pyroguard-nexxus.git]
     cd your-repository-name
     ```
 
